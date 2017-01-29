@@ -1,0 +1,17 @@
+<?xml version ="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<coord>
+	<client key ="1">
+		<nom>Dupont</nom>
+		<prenom>Gerard</prenom>
+		<city>Toulouse</city>
+
+	</client>
+	
+	<client key ="2">
+		<nom>Durand</nom>
+		<prenom>Laurent</prenom>
+		<city>Paris</city>
+	</client>
+</coord>	
+	
